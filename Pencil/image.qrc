@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/Images">
+        <file>Texture/minimize.png</file>
+        <file>Texture/right.png</file>
+        <file>Texture/left.png</file>
+        <file>Texture/close.png</file>
+        <file>Texture/brush-gray.png</file>
+        <file>Texture/brush-pink.png</file>
+        <file>Texture/loadingGif.gif</file>
+        <file>Texture/PencilTexture.png</file>
+        <file>Texture/brush-128.png</file>
+        <file>iCon.ico</file>
+    </qresource>
+</RCC>
